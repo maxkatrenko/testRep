@@ -2,3 +2,4 @@ test message for testing git merge vs git rebase
 
 1)First changes
 2)First changes in dev branch
+3)Second changes in dev for rebase
